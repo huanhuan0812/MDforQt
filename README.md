@@ -1,5 +1,5 @@
-# MDforQt
-A Material Design Implementation for Qt
+# Material Design for Qt
+Implementation of Material Design style controls based on Qt
 ## List
 ### - widget
 - [ ] MPushButton
