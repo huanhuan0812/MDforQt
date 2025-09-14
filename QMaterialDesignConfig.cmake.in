@@ -1,0 +1,12 @@
+@PACKAGE_INIT@
+
+include(CMakeFindDependencyMacro)
+
+# 查找依赖
+find_dependency(Qt6 COMPONENTS Core Widgets REQUIRED)
+
+# 包含目标文件
+include("${CMAKE_CURRENT_LIST_DIR}/QMaterialDesignTargets.cmake")
+
+# 检查所有目标是否可用
+check_required_components(QMaterialDesign)
