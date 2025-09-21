@@ -16,15 +16,15 @@ target_link_libraries(YourTarget PRIVATE MaterialDesignControls)
 ```
 ## List
 ### widget
-- [x] MPushButton  The mask layer cannot be removed correctly after the animation is completed
-- [x] MSwichButton
-- [x] MCheckBox
-- [x] MLineEdit
-- [x] MLabel
-- [x] MSlider
-- [x] Mcard
-- [x] MProcessBar
-- [x] MRadioButton
+- [ ] MPushButton  The mask layer cannot be removed correctly after the animation is completed
+- [ ] MSwichButton
+- [ ] MCheckBox
+- [ ] MLineEdit
+- [ ] MLabel
+- [ ] MSlider
+- [ ] Mcard
+- [ ] MProcessBar
+- [ ] MRadioButton
 ### window
 - [ ] MWidget
 - [ ] MBox
